@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jonathan Wilder Lavington / Optimization and Reinforcement Learning "
+title                    : " Random Search on the RL hypercube "
 title_separator          : "-"
 name                     : &name "Jonathan Wilder Lavington"
 description              : &description "PhD student at University of British Columbia"
