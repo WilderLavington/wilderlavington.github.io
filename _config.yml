@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : " Te occidere possunt sed te edere non possunt nefas est. "
   location         : " Vancouver British Columbia"
-  employer         :
+  employer         : "Inverted AI, University of British Columbia"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Ae2Qc0gAAAAJ&hl=en&oi=sra"
-  email            :
+  email            : "jola2372@cs.ubc.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "wilderlavington"
   google_plus      :
   keybase          :
   instagram        :
