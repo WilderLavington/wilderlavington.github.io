@@ -11,30 +11,50 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Applied Math, University of Colorado Boulder, 2017
+* M.S. in Applied Math, GitHub University, 2018
+* University of British Columbia Fall 2018 - Present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Applied Scientist Intern
+  * Amazon
+  * Supervisor: Amber Roy Chowdhury
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2017: Data Scientist Intern
+  * Seagate Technology
+  * Supervisor: Michael Renella
+
+* Spring 2017: Data Scientist Intern
+  * Seagate Technology
+  * Supervisor: Michael Renella
+
+* Summer 2016: Analytic Partners
+  * Analytic Partners
+  * Supervisor: Michael Leichman
+  
+Teaching experience
+======
+* 2018/2019: Teaching Assistant
+  * University of British Columbia, Vancouver
+  * Course: Introduction to Machine Learning
+
+* 2017/2018: Teaching Assistant
+  * University of British Columbia, Vancouver
+  * Course: Calculus 3, Precalculus
+
+* 2017/2018: Learning Assistant
+  * University of Colorado, Boulder
+  * Course: Applied Probability, Matrix Methods, Numerical Analysis
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: MATLAB, R, Python, Clojure, Erlang, Hive/Oracle SQL, C/C++
+* Software Packages Tensorflow, PyTorch, Theano, Keras, Networkx, Pandas, Scikitlearn, Scipy, Numpy, RShiny, Pyspark, SparkR
+* Software & Tools: LaTeX, Tableau, Mathematica, Db Visualizer, Alteryx
+* Database Systems: Hadoop, Oracle
+* Operating Systems: Linux, OSX, Windows
+* GitHub: https://github.com/WilderLavington
 
 Publications
 ======
@@ -48,12 +68,3 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
