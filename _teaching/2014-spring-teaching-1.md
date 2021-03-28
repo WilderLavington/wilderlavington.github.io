@@ -1,20 +1,29 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "University of Colorado Boulder, Department of Applied Mathematics"
 date: 2014-01-01
-location: "City, Country"
+location: "Boulder CO, United States"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Applied Probability
 ======
+https://www.colorado.edu/amath/academics/course-catalog/appm-3570-applied-probability
 
-Heading 2
+Matrix Methods
 ======
+https://www.colorado.edu/amath/appm-3310-matrix-methods-and-applications
 
-Heading 3
+Calculus 3
 ======
+https://www.colorado.edu/amath/academics/course-catalog/appm-2350-calculus-3-engineers
+
+Scientific Computing
+======
+https://www.colorado.edu/amath/academics/course-catalog/appm-4650-intermediate-numerical-analysis-1
+
+Precalculus
+======
+https://www.colorado.edu/amath/appm-1235-pre-calculus-engineers-course-description
