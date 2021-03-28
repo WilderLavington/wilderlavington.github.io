@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: https://www.cs.ubc.ca/labs/lci/mlrg/slides/20200708.pdf
 venue: "UBC Department of Computer Science - Machine Learning reading group"
-date: 2012-03-01
+date: 2020-07-28
 location: "Vancouver, British Columbia"
 ---
 
