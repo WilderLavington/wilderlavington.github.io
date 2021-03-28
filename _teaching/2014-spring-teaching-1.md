@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate"
+type: "Course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Colorado Boulder, Department of Applied Mathematics"
 date: 2014-01-01
