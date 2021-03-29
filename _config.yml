@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : " Random Search on the RL hypercube "
+title                    : "Random Search on the RL hypercube "
 title_separator          : "-"
 name                     : &name "Jonathan Wilder Lavington"
 description              : &description "PhD student at University of British Columbia"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jonathan Wilder Lavington"
   avatar           : "profile.png"
-  bio              : " Te occidere possunt sed te edere non possunt nefas est. "
-  location         : " Vancouver British Columbia"
+  bio              : "Te occidere possunt sed te edere non possunt nefas est. "
+  location         : "Vancouver British Columbia"
   employer         : "Inverted AI, UBC"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Ae2Qc0gAAAAJ&hl=en&oi=sra"
@@ -152,14 +152,12 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
