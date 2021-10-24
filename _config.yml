@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Random Search on the RL hypercube "
 title_separator          : "-"
 name                     : &name "Jonathan Wilder Lavington"
-description              : &description "PhD student at University of British Columbia"
+description              : &description "PhD student at University of British Columbia, Reinforcement Learning Engineer at Inverted AI"
 url                      : https://wilderlavington.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wilderlavington/academicpages.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -83,9 +83,9 @@ author:
   name             : "Jonathan Wilder Lavington"
   avatar           : "profile.png"
   bio              : "Te occidere possunt sed te edere non possunt nefas est. "
-  location         : "Vancouver British Columbia"
-  employer         : "Inverted AI, UBC"
-  pubmed           : 
+  location         : "Vancouver British Columbia, Canada"
+  employer         : "UBC, Inverted AI"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=Ae2Qc0gAAAAJ&hl=en&oi=sra"
   email            : "jola2372@cs.ubc.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,17 +103,17 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : https://stackoverflow.com/users/6633256/outstretched-pupil
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
-  youtube          : 
+  youtube          :
   wikipedia        :
 
 
