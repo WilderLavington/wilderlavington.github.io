@@ -55,14 +55,14 @@ $lighter-gray               : mix(#fff, $gray, 90%);
 $lighter-blue               : #9fafca;
 $darker-blue                : #0e387a;
 
-$body-color                 : $lighter-blue;
-$background-color           : #6b9bd1;
+$body-color                 : $darker-blue;
+$background-color           : $lighter-blue;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $darker-gray;
 $text-color                 : $darker-gray;
 $border-color               : $darker-blue;
 
-$primary-color              : #7a8288;
+$primary-color              : $darker-blue;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
