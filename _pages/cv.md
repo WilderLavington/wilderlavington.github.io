@@ -54,7 +54,7 @@ Teaching experience
 Skills
 ======
 * Programming Languages: MATLAB, R, Python, Clojure, Erlang, Hive/Oracle SQL, C/C++
-* Software Packages Tensorflow, PyTorch, Theano, Keras, Networkx, Pandas, Scikitlearn, Scipy, Numpy, RShiny, Pyspark, SparkR
+* Software Packages: Tensorflow, PyTorch, Theano, Keras, Networkx, Pandas, Scikitlearn, Scipy, Numpy, RShiny, Pyspark, SparkR
 * Software & Tools: LaTeX, Tableau, Mathematica, Db Visualizer, Alteryx
 * Database Systems: Hadoop, Oracle
 * Operating Systems: Linux, OSX, Windows
