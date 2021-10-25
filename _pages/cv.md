@@ -17,6 +17,10 @@ Education
 
 Work experience
 ======
+* Summer 2020-Summer 2022: Reinforcement Learning Engineer
+  * Inverted AI
+  * Supervisor: Adam Scibior
+
 * Summer 2019: Applied Scientist Intern
   * Amazon
   * Supervisor: Amber Roy Chowdhury
@@ -32,7 +36,7 @@ Work experience
 * Summer 2016: Analytic Partners
   * Analytic Partners
   * Supervisor: Michael Leichman
-  
+
 Teaching experience
 ======
 * 2018/2019: Teaching Assistant
@@ -46,7 +50,7 @@ Teaching experience
 * 2017/2018: Learning Assistant
   * University of Colorado, Boulder
   * Course: Applied Probability, Matrix Methods, Numerical Analysis
-  
+
 Skills
 ======
 * Programming Languages: MATLAB, R, Python, Clojure, Erlang, Hive/Oracle SQL, C/C++
@@ -61,10 +65,9 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
