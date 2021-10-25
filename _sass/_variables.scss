@@ -55,7 +55,7 @@ $lighter-gray               : mix(#fff, $gray, 90%);
 $lighter-blue               : #9fafca;
 $darker-blue                : #0e387a;
 
-$body-color                 : #cedef0;
+$body-color                 : $lighter-blue;
 $background-color           : #6b9bd1;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $darker-gray;
