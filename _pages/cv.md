@@ -12,12 +12,12 @@ redirect_from:
 Education
 ======
 * B.S. in Applied Math, University of Colorado Boulder, 2017
-* M.S. in Applied Math, GitHub University, 2018
+* M.S. in Applied Math, University of Colorado Boulder, 2018
 * University of British Columbia Fall 2018 - Present
 
 Work experience
 ======
-* Summer 2020-Summer 2022: Reinforcement Learning Engineer
+* Summer 2020-Present: Reinforcement Learning Engineer
   * Inverted AI
   * Supervisor: Adam Scibior
 
