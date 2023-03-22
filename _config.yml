@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Random Search on the RL hypercube "
+title                    : "Jonathan Wilder Lavington"
 title_separator          : "-"
-name                     : &name "Jonathan Wilder Lavington"
+name                     : &name "Wilder"
 description              : &description "PhD student at University of British Columbia, Reinforcement Learning Engineer at Inverted AI"
 url                      : https://wilderlavington.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jonathan Wilder Lavington"
   avatar           : "profile.png"
-  bio              : "Te occidere possunt sed te edere non possunt nefas est. "
+  bio              : "CO->BC"
   location         : "Vancouver British Columbia, Canada"
   employer         : "UBC, Inverted AI"
   pubmed           :
