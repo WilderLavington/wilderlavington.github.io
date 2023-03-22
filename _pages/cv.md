@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Applied Math, University of Colorado Boulder, 2017
-* M.S. in Applied Math, University of Colorado Boulder, 2018
-* University of British Columbia Fall 2018 - Present
+* BS in Applied Math, University of Colorado Boulder, 2017
+* MS in Applied Math, University of Colorado Boulder, 2018
+* PhD in Computer Science, University of British Columbia Fall 2018 - Present
 
 Work experience
 ======
