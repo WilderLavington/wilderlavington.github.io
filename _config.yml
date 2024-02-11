@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-# title                    : "Random Search on the Hypercube"
+title                    : "Info"
 title_separator          : "-"
-name                     : &name "Wilder Lavington"
+name                     : &name "J. Wilder Lavington"
 description              : &description "personal description"
 url                      : https://wilderlavington.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
