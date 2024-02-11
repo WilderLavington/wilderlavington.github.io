@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jonathan Wilder Lavington"
+  name             : "J. Wilder Lavington"
   avatar           : "profile.png"
   bio              : "Machine Learning and Artificial Intelligence Researcher"
   location         : "Vancouver, BC"
-  employer         : "Inverted AI and University of British Columbia"
+  employer         : "Inverted AI"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Ae2Qc0gAAAAJ&hl=en"
   email            :
@@ -181,12 +181,12 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  # portfolio:
-  #   output: true
-  #   permalink: /:collection/:path/
-  # talks:
-  #   output: true
-  #   permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -227,23 +227,23 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # # _portfolio
-  # - scope:
-  #     path: ""
-  #     type: portfolio
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comment: true
-  # # _talks
-  # - scope:
-  #     path: ""
-  #     type: talks
-  #   values:
-  #     layout: talk
-  #     author_profile: true
-  #     share: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
