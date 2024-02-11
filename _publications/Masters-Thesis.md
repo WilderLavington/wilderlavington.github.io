@@ -22,7 +22,7 @@ composition dependence, and the effects of runs of consecutive mismatches. Using
 Ruin Markov model to mimic the process of R-loop formation, we fit our model to experimental
 data and show that the match/mismatch configuration between the gRNA and the DNA target
 allows for accurate predictions of R-loop formation in bacteria'
-date: 2018 
+date: 2018-06-31 
 venue: 'Masters Thesis, University of Colorado at Boulder, Department of Applied Mathematics'
 paperurl: https://www.proquest.com/openview/da3b1b61b3fd2f0ca38a3418172867d9/1?pq-origsite=gscholar&cbl=18750
 citation: 'Lavington, Jonathan, et al. "A Probabilistic Modeling Approach to CRISPR-Cas9" '
