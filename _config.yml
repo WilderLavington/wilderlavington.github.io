@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Info"
+title                    : "Additional Info"
 title_separator          : "-"
 name                     : &name "J. Wilder Lavington"
 description              : &description "personal description"
