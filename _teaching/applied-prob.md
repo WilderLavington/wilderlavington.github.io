@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Course"
+permalink: https://www.colorado.edu/amath/academics/course-catalog/appm-3570-applied-probability
+venue: "University of Colorado Boulder, Department of Applied Mathematics"
+date: 2014-01-01
+location: "Boulder CO, United States"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Applied Probability
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+Studies axioms, counting formulas, conditional probability, independence, random variables, continuous and discrete distribution, expectation, moment generating functions, law of large numbers, central limit theorem, Poisson process, and multivariate Gaussian distribution. Prereq., APPM 2350 or MATH 2400.  Students may not receive credit for both APPM 3570 and either ECEN 3810 or MATH 4510.

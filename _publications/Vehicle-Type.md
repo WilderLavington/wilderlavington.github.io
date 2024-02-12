@@ -3,7 +3,7 @@ title: "Vehicle Type Specific Waypoint Generation"
 collection: publications
 permalink: /publication/Vehicle-Type
 date: 2022-12-22
-venue: 'ICLR-2023'
+venue: 'IROS-2022'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9981421'
 citation: 'Liu, Yunpeng, et al. "Vehicle Type Specific Waypoint Generation." IROS 2022.'
 ---

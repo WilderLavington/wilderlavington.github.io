@@ -1,5 +1,5 @@
 ---
-title: "Target-based Surrogates for Stochastic Optimization"
+title: "Improved Policy Optimization for Online Imitation Learning"
 collection: publications
 permalink: /publication/Improved-OIL
 date: 2022-02-01
