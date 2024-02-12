@@ -1,7 +1,7 @@
 ---
 title: "A Probabilistic Modeling Approach to CRISPR-Cas9"
 collection: publications
-permalink: /publication/masters-thesis
+permalink: /publication/Masters-Thesis
 excerpt: 'CRISPR-Cas, a particular type of microbial immune response system, has in recent years been
 modified to make precise changes to an organisms DNA. In the early 2000s scientists discovered
 through the study of Streptococcus pyogenes, that a unique CRISPR locus (Cas9) exhibited specific
