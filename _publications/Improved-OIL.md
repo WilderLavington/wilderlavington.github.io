@@ -2,7 +2,7 @@
 title: "Target-based Surrogates for Stochastic Optimization"
 collection: publications
 permalink: /publication/Improved-OIL
-date: 2023-02-01
+date: 2022-02-01
 venue: 'CoLLAs-2022'
 paperurl: 'https://proceedings.mlr.press/v199/lavington22a/lavington22a.pdf'
 citation: 'Lavington, Jonathan, et al. "Improved Policy Optimization for Online Imitation Learning." CoLLAs 2022.'
