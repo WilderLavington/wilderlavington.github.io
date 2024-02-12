@@ -1,7 +1,7 @@
 ---
 title: "Target-based Surrogates for Stochastic Optimization"
 collection: publications
-permalink: /publication/Critic-SMC
+permalink: /publication/Target-Based-Surrogates
 date: 2023-02-01
 venue: 'ICML-2023'
 paperurl: 'https://proceedings.mlr.press/v202/lavington23a/lavington23a.pdf'
