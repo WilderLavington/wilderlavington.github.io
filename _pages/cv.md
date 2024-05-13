@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Summer 2020-Present: Reinforcement Learning Engineer
+* Summer 2020-Present: Researcher
   * Inverted AI
   * Supervisor: Adam Scibior
 
