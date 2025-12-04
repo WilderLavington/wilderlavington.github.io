@@ -1,5 +1,5 @@
 ---
-title: "Video Killed the HD-Map: Predicting Driving Behavior Directly From Drone Images"
+title: "Realistically distributing object placements in synthetic training data improves the performance of vision-based object detection models"
 collection: publications
 permalink: /publication/Realistic
 date: 2023-06-19
