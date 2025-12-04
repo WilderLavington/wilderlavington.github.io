@@ -17,9 +17,13 @@ Education
 
 Work experience
 ======
-* Summer 2020-Present: Researcher
+* Winter 2024 - Present: Applied Scientist II
+  * Amazon
+  * Supervisors: Amin Banitalebi, Peng Dai
+   
+* Summer 2020 - Winter 2024: Researcher
   * Inverted AI
-  * Supervisor: Adam Scibior
+  * Supervisor: Frank Wood
 
 * Summer 2019: Applied Scientist Intern
   * Amazon
@@ -56,6 +60,7 @@ Skills
 * Programming Languages: MATLAB, R, Python, Clojure, Erlang, Hive/Oracle SQL, C/C++
 * Software Packages: Tensorflow, PyTorch, Theano, Keras, Networkx, Pandas, Scikitlearn, Scipy, Numpy, RShiny, Pyspark, SparkR
 * Software & Tools: LaTeX, Tableau, Mathematica, Db Visualizer, Alteryx
+* Algorithmic Frameworks: Generative Modeling, Reinforcement Learning, Optimization for ML, LLM Fine-tuning, Reccomender Systems
 * Database Systems: Hadoop, Oracle
 * Operating Systems: Linux, OSX, Windows
 * GitHub: https://github.com/WilderLavington
