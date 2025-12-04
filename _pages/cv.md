@@ -13,7 +13,7 @@ Education
 ======
 * BS in Applied Math, University of Colorado Boulder, 2017
 * MS in Applied Math, University of Colorado Boulder, 2018
-* PhD in Computer Science, University of British Columbia Fall 2018 - Winter 2024
+* PhD in Computer Science, University of British Columbia 2018 - 2024
 
 Work experience
 ======
